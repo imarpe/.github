@@ -1,4 +1,4 @@
-he **IMARPE Repository** is a digital platform that provides access to the scientific and technical outputs of the **Instituto del Mar del Perú (IMARPE)**. This repository hosts a variety of materials, including research reports, data sets, software tools, and publications that contribute to the sustainable management of marine resources and ecosystems.
+**IMARPE Repository** is a digital platform that provides access to the scientific and technical outputs of the **Instituto del Mar del Perú (IMARPE)**. This repository hosts a variety of materials, including research reports, data sets, software tools, and publications that contribute to the sustainable management of marine resources and ecosystems.
 
 ### Contents
 The IMARPE Repository includes the following types of content:
