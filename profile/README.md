@@ -1,5 +1,10 @@
 **IMARPE Repository** is a digital platform that provides access to the scientific and technical outputs of the **Instituto del Mar del Perú (IMARPE)**. This repository hosts a variety of materials, including research reports, data sets, software tools, and publications that contribute to the sustainable management of marine resources and ecosystems.
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarpe&amp;theme=transparent&amp;langs_count=5&amp;line_height=40&amp;rank_icon=github&amp;title_color=000000&amp;text_color=1073f6" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imarpe&amp;theme=transparent&amp;line_height=40&amp;rank_icon=github&amp;title_color=000000&amp;text_color=1073f6" alt="GitHub Stats"/>
+</div>
+
 ### Contents
 The IMARPE Repository includes the following types of content:
 
