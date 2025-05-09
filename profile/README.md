@@ -1,13 +1,14 @@
-<span style="color: blue;"><strong>IMARPE Repository</strong></span> provides open access to the scientific and technical outputs of the <span style="color: blue;"><strong>Instituto del Mar del Perú (IMARPE)</strong></span>. This repository hosts research reports, datasets, software tools, publications, projects, packages, and processes developed by its researchers. Its goal is to promote <span style="color: blue;"><strong>reproducibility, replicability</strong></span>, and the sharing of knowledge. Additionally, the repository is designed as an open platform, accessible to researchers.
+***IMARPE Repository*** provides open access to the scientific and technical outputs of the ***Instituto del Mar del Perú (IMARPE)***. This repository hosts research reports, datasets, software tools, publications, projects, packages, and processes developed by its researchers. Its goal is to promote **reproducibility, replicability**, and the sharing of knowledge. Additionally, the repository is designed as an open platform that is accessible to researchers.
 
-<h3><span style="color:blue; font-weight:bold;">Contents</span></h3>
+### Contents
 The IMARPE Repository includes the following types of content:
 
-<h3><span style="color:blue; font-weight:bold;">Pelagic resources</span></h3>
-<h4><span style="color:blue; font-weight:bold;">orth-Center Anchoveta Stock (ancNC)</span></h4> N
-- Evaluation of the north-center anchoveta stock in Peru. [Here]()
+### Pelagic resources
+#### North-Center Anchoveta Stock (ancnc)
+- Evaluation of the north-central Peruvian anchoveta (_Engraulis ringens_) stock based on survey data.[Here](https://github.com/imarpe/anchNC_survey_based_assessment)
+- Evaluation of the north-central Peruvian anchoveta (_Engraulis ringens_) stock using the SPiCT model. [Here](https://github.com/imarpe/anchNC_survey_based_assessment)
 
-##### South Anchoveta Stock (**ancS**)
+##### South Anchoveta Stock (**ancsr**)
 - Evaluation of the available anchoveta stock in the southern region of the Peruvian sea.
 
 ##### Peruvian Jack Mackerel Stock (**jjm**)
