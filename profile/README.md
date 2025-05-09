@@ -1,4 +1,4 @@
-***IMARPE Repository*** provides open access to the scientific and technical outputs of the ***Instituto del Mar del Perú (IMARPE)***. This repository hosts research reports, datasets, software tools, publications, projects, packages, and processes developed by its researchers. Its goal is to promote **reproducibility, replicability**, and the sharing of knowledge. Additionally, the repository is designed as an open platform that is accessible to researchers.
+**IMARPE Repository** provides open access to the scientific and technical outputs of the **Instituto del Mar del Perú (IMARPE)**. This repository hosts research reports, datasets, software tools, publications, projects, packages, and processes developed by its researchers. Its goal is to promote **reproducibility, replicability**, and the sharing of knowledge. Additionally, the repository is designed as an **open platform** that is accessible to researchers.
 
 ### Contents
 The IMARPE Repository includes the following types of content:
@@ -8,15 +8,26 @@ The IMARPE Repository includes the following types of content:
 - Evaluation of the north-central Peruvian anchoveta (_Engraulis ringens_) stock based on survey data.[Here](https://github.com/imarpe/anchNC_survey_based_assessment)
 - Evaluation of the north-central Peruvian anchoveta (_Engraulis ringens_) stock using the SPiCT model. [Here](https://github.com/imarpe/anchNC_survey_based_assessment)
 
-##### South Anchoveta Stock (**ancsr**)
+#### South Anchoveta Stock (**ancsr**)
 - Evaluation of the available anchoveta stock in the southern region of the Peruvian sea.
 
-##### Peruvian Jack Mackerel Stock (**jjm**)
+#### Peruvian Jack Mackerel Stock (**jjm**)
 - Evaluation of the Peruvian jack mackerel stock.
 
+### **R Packages Developed**
+Tools and libraries developed in R for marine and fisheries applications. These packages are designed to support stock assessment workflows, model marine populations, process biological and acoustic survey data, and perform applied analyses for fisheries management.
 
-##### R Packages Developed
-- Tools and libraries developed in R for marine and fisheries data analysis. These packages are designed to assist researchers and policymakers in analyzing large datasets, modeling marine populations, and performing statistical analysis of marine resources.
+R packages designed for end-to-end survey workflows
+- **`pelagicSurvey`**
+- **`nbSurvey`**
+- **`retroSurvey`**
+- **`tableSurvey`**
+- **`catchSurvey`**
+- **`popeSurvey`**
+
+R packages designed to support 
+
+
 
 ##### Python Packages Developed
 - Tools and libraries developed in Python for modeling and analysis of marine data. These packages provide functions for data visualization, statistical modeling, and simulations related to marine ecology.
