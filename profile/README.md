@@ -1,10 +1,10 @@
 <span style="color: blue;"><strong>IMARPE Repository</strong></span> provides open access to the scientific and technical outputs of the <span style="color: blue;"><strong>Instituto del Mar del Perú (IMARPE)</strong></span>. This repository hosts research reports, datasets, software tools, publications, projects, packages, and processes developed by its researchers. Its goal is to promote <span style="color: blue;"><strong>reproducibility, replicability</strong></span>, and the sharing of knowledge. Additionally, the repository is designed as an open platform, accessible to researchers.
 
-<h3 style="color: blue; font-weight: bold;">Contents</h3>
+<h3><span style="color:blue; font-weight:bold;">Contents</span></h3>
 The IMARPE Repository includes the following types of content:
 
-#### Pelagic resources
-##### North-Center Anchoveta Stock (**ancNC**)
+<h3><span style="color:blue; font-weight:bold;">Pelagic resources</span></h3>
+<h4><span style="color:blue; font-weight:bold;">orth-Center Anchoveta Stock (ancNC)</span></h4> N
 - Evaluation of the north-center anchoveta stock in Peru. [Here]()
 
 ##### South Anchoveta Stock (**ancS**)
